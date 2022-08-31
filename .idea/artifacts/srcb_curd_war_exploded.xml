@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="srcb_curd:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/srcb_curd_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="srcb_curd/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="srcb_curd" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
